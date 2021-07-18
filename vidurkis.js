@@ -22,7 +22,7 @@ iprasta naudoti 'camel-case'
 
 var bendrasasakitossuma;
 var bendra_saskaitos_suma; //snake case
-var bendraSasakitosSuma; - //camel case
+var bendraSaskaitosSuma; - //camel case
 
 
 a = 2;
@@ -37,6 +37,6 @@ var vidurkis;
 
 vidurkis = suma / 3;
 
-console.log(viduris);
+console.log(vidurkis);
 
 
