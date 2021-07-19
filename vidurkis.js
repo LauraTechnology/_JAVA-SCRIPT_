@@ -18,12 +18,6 @@ iprasta naudoti 'camel-case'
 
 //Java Script yra Case sensitive
 
-*/
-
-var bendrasasakitossuma;
-var bendra_saskaitos_suma; //snake case
-var bendraSaskaitosSuma; - //camel case
-
 
 a = 2;
 b = 7;
@@ -31,7 +25,7 @@ c = 9;
 
 var suma;
 
-suma = a /* cia kintamasis a */ + b /* cia kintamasis b */ + c;
+suma = a + b + c;
 
 var vidurkis;
 
