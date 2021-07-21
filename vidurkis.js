@@ -33,7 +33,7 @@ cia tesiasi tas pats komentaras
 
 cia jis baigiasi*/
 
-suma = a + b + c;
+suma = a /* cia kintamasis a */ + b /* cia b */+ c /* ir dar pabaigoj c*/ ;
 
 var vidurkis;
 
