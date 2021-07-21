@@ -1,5 +1,5 @@
-// cia yra ne komanda, o tekstas, kuri programutoojas pasirase sau. 
-// - single line komentaras (vinea eilute) 
+// cia yra ne komanda, o tekstas, kuri programutojas pasirase sau. 
+// - single line komentaras (viena eilute) 
 var a;
 var b;
 var c; // var - komanda Java Scriptui. Fiksuotas terminas, variable-kintamasis. Deklaruojam kintamaji
@@ -22,8 +22,16 @@ iprasta naudoti 'camel-case'
 a = 2;
 b = 7;
 c = 9;
+// komentaras po
+// viena
+// eilute 
 
 var suma;
+
+/* cia prasideda komentaras
+cia tesiasi tas pats komentaras
+
+cia jis baigiasi*/
 
 suma = a + b + c;
 
