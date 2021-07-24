@@ -7,6 +7,6 @@ console.log(rez);
 
 var tekstas = "Labas";
 
-tekstas = tekstas + ' pasauli';
+tekstas = tekstas + " \u0061\t!  pasauli";
 
 console.log(tekstas)
