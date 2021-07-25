@@ -10,3 +10,15 @@ var tekstas = "Labas";
 tekstas = tekstas + " \u0061\t!  pasauli";
 
 console.log(tekstas)
+/*
+number
+string
+boolean true/false
+
++ sudetis
+- atimtis
+* daugyba
+/ dalyba
+% liekana
+** kelimas laipsniu
+*/
