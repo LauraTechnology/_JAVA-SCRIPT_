@@ -1,15 +1,9 @@
-var sk1 = 0.1;
-var sk2 = 0.2;
+var sk1 = 8
 
-var rez = sk1 + sk2;
+var arTiesa = sk1 < 15
 
-console.log(rez);
+console.log(arTiesa);
 
-var tekstas = "Labas";
-
-tekstas = tekstas + " \u0061\t!  pasauli";
-
-console.log(tekstas)
 /*
 number
 string
@@ -21,4 +15,13 @@ boolean true/false
 / dalyba
 % liekana
 ** kelimas laipsniu
+
+=   ar lygu
+==  ar lygu
+!=  ar nelygu
+!== ar nelygu
+>  ar daugiau
+>= ar daugiau arba lygu
+<  ar maziau
+<= ar maziau arba lygu
 */
