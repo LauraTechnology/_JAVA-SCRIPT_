@@ -15,9 +15,19 @@ let puodukas = {
     };
     console.log(puodukas);
     console.log(p);
-    
+
 //pspildymas
     let m = [15, 19, 23];
 let kitas = m;
 kitas[1] = 77;
 console.log(m);
+
+//zmogus
+let zmogus = {
+    vardas: "Jonas",
+    pavarde: "Jonaitis",
+    kontaktai: {
+    telefonas: "+37069920000",
+    email: "Jonas.Jonaitis@gmail.com"
+    }
+    };
