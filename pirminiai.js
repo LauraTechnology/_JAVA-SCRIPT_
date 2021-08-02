@@ -8,3 +8,5 @@ dalinant tikrinti ar dalinasi be liekanos
 jei be liekanos - ne pirminis
 jei nera nei vieno skaiciaus, is kurio padalinus tikrinama skaiciu, gautume liekana 0,
 tai tikrinamas skaicius - pirminis
+
+*/
