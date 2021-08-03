@@ -16,3 +16,10 @@ jei nera nei vieno skaiciaus, is kurio padalinus tikrinama skaiciu, gautume liek
 tai tikrinamas skaicius - pirminis
 
 */
+
+var sk = 2;
+while (sk <=100) {
+
+    var daliklis = 2;
+    while 
+}
