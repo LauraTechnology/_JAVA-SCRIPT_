@@ -3,7 +3,7 @@
 // If it is between 12pm and 6pm: Good afternoon!
 // Otherwise: Good evening!
 
-let hour = 10;
+let hour = 20;
 
 if (hour >= 6 && hour < 12) {
     console.log('Good morning');
